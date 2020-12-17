@@ -1,0 +1,9 @@
+#APane{
+	/*couleur de fond */
+	-fx-background-color:#333;
+}
+
+#login{
+	/* couleur bleue */
+	-fx-text-fill: #0050ff;
+}

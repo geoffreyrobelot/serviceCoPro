@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_231">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.datatools.connectivity.jdt.DRIVERLIBRARY/MySQL JDBC Driver"/>
+	<classpathentry kind="con" path="org.eclipse.payara.tools.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/04_mysql-connector-java-8.0.19/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/hk2-api.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/hk2-config.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/hk2-core.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jakarta.annotation-api.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jakarta.json.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jakarta.ws.rs-api.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jersey-entity-filtering.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jersey-hk2.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jersey-media-moxy.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/microprofile-rest-client-api.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/org.eclipse.persistence.asm.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/org.eclipse.persistence.core.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/org.eclipse.persistence.moxy.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/lib/gf-client.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/h2db/bin/h2.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/jsonp-jaxrs-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/commons-codec-1.14/commons-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jersey-gf-ejb.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jersey-media-json-binding.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jersey-media-json-jackson.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jersey-media-json-processing.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jersey-mp-rest-client.jar"/>
+	<classpathentry kind="lib" path="C:/LOGICIELS/payara-5.201/payara5/glassfish/modules/jersey-proxy-client.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/EclipseLink 2.5.2">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+			<attribute name="owner.project.facets" value="jpt.jpa"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
